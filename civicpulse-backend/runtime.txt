@@ -1,0 +1,15 @@
+python-3.11.0
+```
+
+(Python 3.12 might have compatibility issues)
+
+## 📝 **4. Add `.slugignore` file** (optional, saves space)
+
+Create `civicpulse-backend/.slugignore`:
+```
+*.pyc
+__pycache__/
+.git/
+.vscode/
+*.md
+tests/
