@@ -10,6 +10,12 @@
 
 ---
 
+## 📺 Demo Video
+
+[Watch our demo video]([https://youtube.com/your-video](https://youtu.be/KieRjOyocJg?si=CAn6ICRjfzx9HDre))
+
+---
+
 ## 🎯 Problem Statement
 
 Every day, thousands of citizens post complaints about **water shortages**, **power outages**, **road damage** &  **emergencies** on social media. But these posts:
@@ -284,14 +290,6 @@ We welcome contributions! Please follow these steps:
 - **SOLVIO AI Hackathon** for the opportunity
 - **Hugging Face** for NLP models and
 - **Our mentors and judges** for support
-
----
-
----
-
-## 📺 Demo Video
-
-[Watch our demo video](https://youtube.com/your-video)
 
 ---
 
