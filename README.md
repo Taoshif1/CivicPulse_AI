@@ -181,7 +181,7 @@ Frontend runs on `http://localhost:3000`
 ┌─────────────────┐
 │ Interactive     │
 │ Dashboard       │
-└─────────────────┘
+└────────┬────────┘
          │
          ▼
 ┌─────────────────┐
@@ -282,6 +282,8 @@ We welcome contributions! Please follow these steps:
 | Homaira Erin | Research, Documentation, Presentation | homayraerin3@gmail.com |
 
 **Institution**: East West University, Dhaka, Bangladesh
+
+Gazi Taoshif's current commercial web and product work is published through **[Taoshiflex Studio](https://taoshiflexstudio.me)**. CivicPulse AI remains a **Team Zephyr AI** project.
 
 ---
 
